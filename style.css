@@ -1,0 +1,37 @@
+.navbar_custom{
+    background-color: rgb(86, 46, 255);
+}
+#logo{
+    width: 36%;
+    height:7vh;
+    margin-right:20px;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.section_one{
+    width:60%;
+    height: max-content;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    background-color: white;
+}
+body{
+    background-color: rgb(217, 214, 233);
+}
+.player_img{
+    width:30%;
+    height:10vh;
+    margin-right:20px;
+}
+.crd{
+    border: none;
+}
+.checked {
+    color: orange;
+  }
+.course_img{
+    width:80%;
+    height:15vh;
+    
+}
